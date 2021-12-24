@@ -1,0 +1,22 @@
+.radio__station {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 15px;
+	cursor: pointer;
+	color: #a2abbd;
+	transition: 0.35s;
+}
+.radio__station:hover {
+	color: #ffffff;
+}
+.radio__station_name {
+	text-transform: capitalize;
+	font-size: 22px;
+	font-weight: 900;
+	letter-spacing: 3px;
+}
+.radio__station_frequency {
+	font-weight: bold;
+	font-size: 22px;
+}

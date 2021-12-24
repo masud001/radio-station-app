@@ -1,0 +1,22 @@
+.radio__station_header {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height: 80px;
+	padding: 35px;
+	border-radius: 20px 20px 0 0;
+	background: #edae61;
+	color: white;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-size: 25px;
+}
+.radio__station_header_icon {
+	cursor: pointer;
+	transform: scale(0.5);
+	transition: 0.2s ease-out;
+}
+.radio__station_header_icon:hover {
+	transform: scale(0.6);
+}

@@ -1,0 +1,22 @@
+.radio__station_media_player {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 20px 0;
+}
+.radio__station_media_volume {
+	cursor: pointer;
+	transform: scale(0.5);
+	transition: 0.15s;
+}
+.radio__station_media_volume:hover {
+	transform: scale(0.6);
+}
+.radio__station_media_cover {
+	width: 100px;
+	height: 100px;
+	border: 1px solid lightgray;
+	border-radius: 100%;
+	background-position: center;
+	background-size: cover;
+}
