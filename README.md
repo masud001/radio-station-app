@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+you can see live demo from here
+
+### `Live Demo`
+
+Please Click [https://elastic-banach-e4cc60.netlify.app/] this link to view from `Netlify`
+
 ## Available Scripts
 
 In the project directory, you can run:
