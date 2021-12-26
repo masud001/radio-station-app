@@ -6,7 +6,7 @@ you can see live demo from here
 
 ### `Live Demo`
 
-Please Click [https://elastic-banach-e4cc60.netlify.app/] this link to view from `Netlify`
+Please [Click Here](https://elastic-banach-e4cc60.netlify.app/) view from `Netlify`
 
 ## Available Scripts
 
